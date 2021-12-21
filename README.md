@@ -1,10 +1,10 @@
 ### Hello, I am graphemecluster
 
-- Software developer from Hong Kong
+- Developer from Hong Kong, mainly front-end web developer
 - Works on languages and linguistics, music and mathematics
 - Communicates with Cantonese, English, Mandarin and Japanese
-- Loves JavaScript, including TypeScript
-- Member of Ideographic Research Group
+- Loves ECMAScript, or JavaScript, and including TypeScript
+- Member of Ideographic Research Group, CanCLID and nk2028
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&theme=vue&show_icons=true&hide=stars&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
