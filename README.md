@@ -6,9 +6,9 @@
 - Loves ECMAScript, or JavaScript, and including TypeScript
 - Member of Ideographic Research Group, CanCLID and nk2028
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=vue&border_color=d0d7de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&count_private=true&theme=vue&border_color=d0d7de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=gotham&border_color=30363d#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&count_private=true&theme=gotham&border_color=30363d#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **graphemecluster/graphemecluster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
