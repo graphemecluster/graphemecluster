@@ -10,7 +10,8 @@
 - Affiliated to [Ideographic Research Group](https://en.wikipedia.org/wiki/Ideographic_Research_Group), [CanCLID](https://github.com/CanCLID) and [nk2028](https://github.com/nk2028)
 - Develops the [TypeDuck Cantonese Input Method](https://typeduck.hk) ([Source Code](https://github.com/TypeDuck-HK))
 
-**Twitter/X:** [@graphemecluster](https://twitter.com/graphemecluster)
+**Twitter/X:** [@graphemecluster](https://twitter.com/graphemecluster) (Japanese)<br>
+   **Qiita:** [@graphemecluster](https://qiita.com/graphemecluster) (Japanese)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=vue&border_color=d0d7de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
