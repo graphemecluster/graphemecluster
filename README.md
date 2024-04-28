@@ -13,6 +13,8 @@
 **Twitter/X:** [@graphemecluster](https://twitter.com/graphemecluster) (Japanese)<br>
    **Qiita:** [@graphemecluster](https://qiita.com/graphemecluster) (Japanese)
 
+Learn more about me on [my personal webpage](https://graphemecluster.github.io)!
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=vue&border_color=d0d7de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=gotham&border_color=30363d#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
