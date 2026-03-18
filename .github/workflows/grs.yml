@@ -23,18 +23,18 @@ jobs:
           card: stats
           options: |-
             {
-              username: ${{ toJSON(github.repository_owner) }},
-              custom_title: "My GitHub Stats",
-              show_icons: true,
-              hide: "stars",
-              include_all_commits: true,
-              bg_color: "ffffff00",
-              border_color: "d1d9e0",
-              title_color: "44bb44",
-              icon_color: "44bb44",
-              ring_color: "44d544",
-              text_color: "1f2328",
-              number_format: "long"
+              "username": ${{ toJSON(github.repository_owner) }},
+              "custom_title": "My GitHub Stats",
+              "show_icons": true,
+              "hide": "stars",
+              "include_all_commits": true,
+              "bg_color": "ffffff00",
+              "border_color": "d1d9e0",
+              "title_color": "44bb44",
+              "icon_color": "44bb44",
+              "ring_color": "44d544",
+              "text_color": "1f2328",
+              "number_format": "long"
             }
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -45,18 +45,18 @@ jobs:
           card: stats
           options: |-
             {
-              username: ${{ toJSON(github.repository_owner) }},
-              custom_title: "My GitHub Stats",
-              show_icons: true,
-              hide: "stars",
-              include_all_commits: true,
-              bg_color: "ffffff00",
-              border_color: "3d444d",
-              title_color: "2ccc2c",
-              icon_color: "2ccc2c",
-              ring_color: "2cdd2c",
-              text_color: "f0f6fc",
-              number_format: "long"
+              "username": ${{ toJSON(github.repository_owner) }},
+              "custom_title": "My GitHub Stats",
+              "show_icons": true,
+              "hide": "stars",
+              "include_all_commits": true,
+              "bg_color": "ffffff00",
+              "border_color": "3d444d",
+              "title_color": "2ccc2c",
+              "icon_color": "2ccc2c",
+              "ring_color": "2cdd2c",
+              "text_color": "f0f6fc",
+              "number_format": "long"
             }
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
