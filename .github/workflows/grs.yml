@@ -1,0 +1,39 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats card (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&border_color=d1d9e0&bg_color=ffffff00&title_color=44bb44&icon_color=44bb44&ring_color=44d544&text_color=1f2328&number_format=long
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&border_color=3d444d&bg_color=ffffff00&title_color=2ccc2c&icon_color=2ccc2c&ring_color=2cdd2c&text_color=f0f6fc&number_format=long
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

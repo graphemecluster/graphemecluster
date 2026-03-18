@@ -16,8 +16,8 @@
 Learn more about me on [my personal webpage](https://graphemecluster.github.io)!
 
 [<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://gf-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&border_color=3d444d&bg_color=ffffff00&title_color=2ccc2c&icon_color=2ccc2c&ring_color=2cdd2c&text_color=f0f6fc&number_format=long" />
-	<img alt="My GitHub Stats" src="https://gf-stats.vercel.app/api?username=graphemecluster&custom_title=My+GitHub+Stats&show_icons=true&hide=stars&include_all_commits=true&border_color=d1d9e0&bg_color=ffffff00&title_color=44bb44&icon_color=44bb44&ring_color=44d544&text_color=1f2328&number_format=long" />
+	<source media="(prefers-color-scheme: dark)" srcset="/profile/stats-dark.svg" />
+	<img alt="My GitHub Stats" src="/profile/stats-light.svg" />
 </picture>](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
