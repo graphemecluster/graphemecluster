@@ -1,6 +1,9 @@
 name: Update README cards
 
 on:
+  push:
+    paths:
+      - ".github/workflows/grs.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
